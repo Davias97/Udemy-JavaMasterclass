@@ -29,8 +29,6 @@ public class Main {
 
         builderPlus.reverse().setLength(7);
         System.out.println(builderPlus);
-
-        
     }
 
     public static void printInformation(String string) {
