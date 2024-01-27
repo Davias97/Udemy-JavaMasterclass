@@ -22,7 +22,7 @@ public class Main {
         for (Topping topping : Topping.values()) {
             System.out.println(topping.name() + " : " + topping.getPrice());
         }
-        
+
     }
 
     public static void switchDayOfWeek(DayOfTheWeek weekDay) {
